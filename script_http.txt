@@ -1,0 +1,18 @@
+#!/bin/bash
+sudo su
+apt-get upgrade -y
+apt-get install apache2 -y
+service apache2 start
+echo Welcome to Saaspect > /var/www/html/index.html
+#!/bin/bash
+sudo su
+apt-get upgrade -y
+apt-get install apache2 -y
+service apache2 start
+echo  Welcome to Saaspect  > /var/www/html/index.html
+#!/bin/bash
+sudo su
+apt-get upgrade -y
+apt-get install apache2 -y
+service apache2 start
+echo  Welcome to Saaspect  > /var/www/html/index.html
